@@ -1,5 +1,5 @@
 // Lista que armazena os nomes dos amigos
-let amigos = [];
+let amigo = [];
 
 // Função para adicionar amigos
 function adicionarAmigo() {
